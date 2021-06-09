@@ -290,7 +290,7 @@ void FlagRandom() {
 
 
 
-//애니메이션 소은아 여기서부터 고쳐
+//o
 void animation(char key) {
 
     gotoxy(50, 12);
@@ -355,7 +355,7 @@ void animation(char key) {
         printf("■");
         break;
     case 'a':
-        gotoxy(5022, 10);
+        gotoxy(50, 10);
         printf("▲▲▲▲");
         gotoxy(50, 11);
         printf("#⊙##⊙#");
